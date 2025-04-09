@@ -38,5 +38,5 @@ This dataset provides high-resolution aerial images along with YOLOv8-compatible
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/rooftop-yolo-detection.git
-   cd rooftop-yolo-detection
+   git clone https://github.com/tomasarede/ProjectSE.git
+   cd ProjectSE
