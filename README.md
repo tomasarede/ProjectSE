@@ -38,5 +38,5 @@ This dataset provides high-resolution aerial images along with YOLOv8-compatible
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/tomasarede/ProjectSE.git
+   git clone https://github.com/your-username/ProjectSE.git
    cd ProjectSE
